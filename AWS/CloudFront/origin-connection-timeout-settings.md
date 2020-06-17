@@ -7,10 +7,12 @@ CloudFront의 Timeout 세팅에는 총 4개의 옵션 값이 존재합니다.
 - Origin Response Timeout
 - Origin Keep-alive Timeout
 
-'Origin CloudFront Attempts' 와 'Origin Connection Timeout' 옵션은 2020-06-11 에 신규로 추가되었습니다.
+'Origin CloudFront Attempts' 옵션과 'Origin Connection Timeout' 옵션은 2020-06-11 에 신규로 추가되었습니다.
 
 > Amazon CloudFront, 구성 가능한 오리진 연결 시도 및 오리진 연결 제한 시간 지원<br>
 https://aws.amazon.com/ko/about-aws/whats-new/2020/06/amazon-cloudfront-enables-configurable-origin-connection-attempts-and-origin-connection-timeouts/
+
+---
 
 ### Origin Connection Attempts
 CloudFront가 Origin을 대상으로 TCP Connection 요청을 몇번까지 보낼 지 정하는 값입니다.

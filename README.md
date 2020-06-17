@@ -14,4 +14,4 @@ today i learned by dohun lee
 
 ### CloudFront
 
-- [Origin connection timeout settings](aws/cloudfront/origin-connection-timeout-settings.md)
+- [Origin connection timeout settings](AWS/CloudFront/origin-connection-timeout-settings.md)
