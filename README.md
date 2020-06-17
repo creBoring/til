@@ -1,6 +1,6 @@
 # til
 
-today i learened by dohun lee
+today i learned by dohun lee
 
 ### 카테고리
 
