@@ -6,7 +6,8 @@ today i learned by dohun lee
 
 * [AWS](#aws)
   * [CloudFront](#cloudfront)
-
+* [DB](#db)
+  * [Oracle](#oracle)
 
 ---
 
@@ -15,3 +16,9 @@ today i learned by dohun lee
 ### CloudFront
 
 - [Origin connection timeout settings](AWS/CloudFront/origin-connection-timeout-settings.md)
+
+## DB
+
+### Oracle
+
+- ['yscoma' Internal Oracle Education 01](DB/Oracle/yscoma-internal-oracle-edu-01.md)
