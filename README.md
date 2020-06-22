@@ -16,6 +16,7 @@ today i learned by dohun lee
 ### CloudFront
 
 - [Origin connection timeout settings](AWS/CloudFront/origin-connection-timeout-settings.md)
+- [SSL/TLS Configuration](AWS/CloudFront/ssl-tls-configuration.md)
 
 ## DB
 
