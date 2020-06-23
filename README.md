@@ -6,6 +6,7 @@ today i learned by dohun lee
 
 * [AWS](#aws)
   * [CloudFront](#cloudfront)
+  * [Route53](#route53)
 * [DB](#db)
   * [Oracle](#oracle)
 
@@ -17,6 +18,10 @@ today i learned by dohun lee
 
 - [Origin connection timeout settings](AWS/CloudFront/origin-connection-timeout-settings.md)
 - [SSL/TLS Configuration](AWS/CloudFront/ssl-tls-configuration.md)
+
+### Route53
+
+- [Manage Subdomain from other Nameserver](AWS/Route53/manage-subdomain-from-other-nameserver.md)
 
 ## DB
 
